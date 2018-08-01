@@ -1,5 +1,5 @@
-https://github.com/nagyrobert0213/hello-world
+[Hello World](https://github.com/nagyrobert0213/hello-world)
 
-https://github.com/nagyrobert0213/patchwork
+[PatchWork](https://github.com/nagyrobert0213/patchwork)
 
-https://github.com/nagyrobert0213/git-lesson-repository
+[Git Lesson Repository](https://github.com/nagyrobert0213/git-lesson-repository)
