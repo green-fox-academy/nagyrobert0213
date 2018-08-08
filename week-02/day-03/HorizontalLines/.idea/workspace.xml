@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f976a7e-44e6-4cb0-919e-e4db347ee663" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../day-03/CenteredSquare/src/CenteredSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-03/HorizontalLines/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-03/HorizontalLines/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-03/HorizontalLines/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-03/HorizontalLines/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-03/HorizontalLines/HorizontalLines.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-03/HorizontalLines/out/production/HorizontalLines/HorizontalLines$ImagePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-03/HorizontalLines/out/production/HorizontalLines/HorizontalLines.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-03/HorizontalLines/src/HorizontalLines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day-03/GoToCenter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-03/GoToCenter/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2a55aee8-a075-4c1f-8fc2-774286888969" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HorizontalLines.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HorizontalLines/HorizontalLines$ImagePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/HorizontalLines/HorizontalLines.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HorizontalLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-02/Matchmaking/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-02/Matchmaking/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToCenter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GoToCenter/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,10 +21,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-528959925">
+    <session id="-1005541530">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -41,12 +41,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="542" />
+          <entry key="java" value="280" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="542" />
+          <entry key="JAVA" value="280" />
         </counts>
       </usages-collector>
     </session>
@@ -54,13 +54,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Matchmaking.java">
+        <entry file="file://$PROJECT_DIR$/src/HorizontalLines.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="272">
+              <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
               <folding>
-                <element signature="e#139#147#0" expanded="true" />
-                <element signature="e#248#256#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -81,7 +80,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Matchmaking.java" />
+        <option value="$PROJECT_DIR$/src/HorizontalLines.java" />
       </list>
     </option>
   </component>
@@ -103,26 +102,26 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Matchmaking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Matchmaking" type="462c0819:PsiDirectoryNode" />
+              <item name="HorizontalLines" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HorizontalLines" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533731755136" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533730011870" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -139,16 +138,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Matchmaking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Matchmaking" />
-      <module name="Matchmaking" />
+    <configuration name="HorizontalLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HorizontalLines" />
+      <module name="HorizontalLines" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Matchmaking" />
+        <item itemvalue="Application.HorizontalLines" />
       </list>
     </recent_temporary>
   </component>
@@ -157,21 +156,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2f976a7e-44e6-4cb0-919e-e4db347ee663" name="Default Changelist" comment="" />
-      <created>1533652662883</created>
+      <changelist id="2a55aee8-a075-4c1f-8fc2-774286888969" name="Default Changelist" comment="" />
+      <created>1533729225927</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1533652662883</updated>
-      <workItem from="1533652665910" duration="4566000" />
+      <updated>1533729225927</updated>
+      <workItem from="1533729229598" duration="804000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4566000" />
+    <option name="totallyTimeSpent" value="804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -180,14 +178,14 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -210,13 +208,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Matchmaking.java">
+    <entry file="file://$PROJECT_DIR$/src/HorizontalLines.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="272">
+          <caret line="16" column="102" selection-start-line="16" selection-start-column="102" selection-end-line="16" selection-end-column="102" />
           <folding>
-            <element signature="e#139#147#0" expanded="true" />
-            <element signature="e#248#256#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
