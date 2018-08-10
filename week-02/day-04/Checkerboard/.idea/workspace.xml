@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63d56d2c-cf0a-4e64-9fab-12f6e5759526" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Calculator/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Checkerboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day-03/RainbowBoxFunction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-03/RainbowBoxFunction/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day-03/RainbowBoxFunction/out/production/RainbowBoxFunction/RainbowBoxFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-03/RainbowBoxFunction/out/production/RainbowBoxFunction/RainbowBoxFunction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day-03/RainbowBoxFunction/src/RainbowBoxFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-03/RainbowBoxFunction/src/RainbowBoxFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QuoteSwawp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QuoteSwawp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QuoteSwawp/src/QuoteSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QuoteSwawp/src/QuoteSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-05/DrawLines/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-05/DrawLines/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day-05/DrawLines/src/DrawLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day-05/DrawLines/src/DrawLines.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Checkerboard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+            <state relative-caret-position="119">
+              <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,7 +113,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533892713689" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533896664284" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../QuoteSwawp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -158,12 +154,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533826929067</updated>
-      <workItem from="1533826935994" duration="4834000" />
+      <workItem from="1533826935994" duration="5840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4834000" />
+    <option name="totallyTimeSpent" value="5840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -208,8 +204,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Checkerboard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="119">
+          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
