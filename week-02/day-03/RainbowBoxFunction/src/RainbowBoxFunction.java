@@ -34,7 +34,7 @@ public class RainbowBoxFunction {
 
         for(int i = colorList.size()-1; i >=0; i--) {
             graphics.setColor(colorList.get(i));
-            drawingFunction(graphics, (i+1) * 10);
+            drawingFunction(graphics, (i+10) * 10);
         }
     }
 
