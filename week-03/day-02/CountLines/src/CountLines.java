@@ -9,14 +9,23 @@ public class CountLines {
         // then returns the number of lines the file contains.
         // It should return zero if it can't open the file, and
         // should not raise any error.
-try {
-    Path countLines = Paths.get("assets/document.txt");
-    List<String> lines = Files.readAllLines(countLines);
-    System.out.println(lines.size());
+
+        Path countLines = Paths.get("assets/document.txt");
+        counting(countLines);
+        System.out.println(countLines);
+
+    }
+    public static int counting (Path countLines){
+        int a;
+        try {
+
+            List<String> lines = Files.readAllLines(countLines);
+            a = lines.size();
         }
         catch (Exception e){
             System.out.println("0");
 
         }
+        return ;
     }
 }
