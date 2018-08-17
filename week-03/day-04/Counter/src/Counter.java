@@ -14,7 +14,7 @@
         a = value++;
         return a;
     }
-    public int get(){
+    public int get(int a){
         System.out.println(value);
         return value;
     }
