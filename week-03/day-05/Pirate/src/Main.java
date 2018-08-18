@@ -1,18 +1,11 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        Pirate pirate = new Pirate(100);
-        Pirate pirateTwo = new Pirate(100);
-        pirate.drinkSomeRum();
-        pirate.howItGoingMate();
-        pirate.drinkSomeRum();
-        pirate.drinkSomeRum();
-        pirate.drinkSomeRum();
-        pirate.howItGoingMate();
-        pirate.drinkSomeRum();
-        pirate.drinkSomeRum();
-        pirate.drinkSomeRum();
-        pirate.drinkSomeRum();
-        pirate.drinkSomeRum();
-        pirate.brawl(pirateTwo);
+        Scanner name = new Scanner(System.in);
+        String mainName = name.nextLine();
+        Pirate pirate = new Pirate(mainName,100);
+        PirateAI pirateTwo = new PirateAI(100,"Sanyi");
+        pirate.chooseTask(pirateTwo);
     }
 }
