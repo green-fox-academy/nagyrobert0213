@@ -27,7 +27,6 @@ public class Tasks {
                 Attacks.punch();
                 PirateAI.isPlayerAlive();
                 System.out.println("The enemy's health is " + PirateAI.health);
-                System.out.println("The enemy's health is " + PirateAI.health);
                 Attacks.critTimes = 0;
                 if (PirateAI.health <= 0){
                     setInt0();

@@ -29,6 +29,7 @@ public class Pirate {
             String chooseTask = tasks.nextLine();
             if (chooseTask.equals("drink")) {
                 drinkSomeRum();
+                i = 1;
             }
             if (chooseTask.equals("brawl")) {
                 Tasks.brawl(b);
@@ -49,6 +50,7 @@ public class Pirate {
             System.out.println("He is already dead");
             isPirateAlive = false;
         }
+
 
         howItGoingMate();
         System.out.println("Your soberness is " + soberness);

@@ -6,11 +6,11 @@ public class Attacks {
 
     public static void damage(){
         PirateAI.health -= 10;
-        criticalChance();
+        //criticalChance();
     }
     public static void damageAI(){
         Pirate.health -= 10;
-        criticalChance();
+        //criticalChance();
     }
 
     public static void punch(){
@@ -34,7 +34,7 @@ public class Attacks {
                     damage();
                     System.out.println("Crit!");
                     i++;
-                    critTimes++;
+                    critTimes=+2;
                 }
             }
         }
