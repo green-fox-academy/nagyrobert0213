@@ -1,7 +1,7 @@
 package main.java.music;
 
 public abstract class Instrument {
-    String name;
+    static String name;
 
     abstract String play();
 }
