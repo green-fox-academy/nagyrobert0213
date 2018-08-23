@@ -2,78 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a94ad59a-910f-484f-9d82-3f03f4af71d0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Game/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/Game.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/out/production/Game/Attacks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/out/production/Game/Enemy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/out/production/Game/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/out/production/Game/MainCharacter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/out/production/Game/Tasks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/src/Attacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/src/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/src/MainCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Game/src/Tasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/game2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/out/production/game2/Attacks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/out/production/game2/Enemy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/out/production/game2/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/out/production/game2/MainCharacter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/out/production/game2/Tasks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/src/Attacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/src/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/src/MainCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../game2/src/Tasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../da/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../da/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../da/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../da/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../da/da.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/green-fox.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/out/production/green-fox/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/out/production/green-fox/Mentor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/out/production/green-fox/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/out/production/green-fox/Sponsor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/out/production/green-fox/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/src/Cohort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/src/Mentor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/src/Sponsor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/green-fox/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/untitled/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day-01/untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cloneable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cloneable/Gnirts.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Cloneable/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Gnirts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/out/production/Pirate/Attacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/out/production/Pirate/Attacks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/out/production/Pirate/Pirate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/out/production/Pirate/Pirate.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/src/Attacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/src/Attacks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/src/Pirate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/src/Pirate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/src/Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../week-03/day-05/Pirate/src/Tasks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cloneable/Gnirts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cloneable/Gnirts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Gnirts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Gnirts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cloneable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cloneable/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Instruments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Instruments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Instruments/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Instruments/src/AppMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Instruments/src/main/java/music/ElectricGuitar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Instruments/src/main/java/music/ElectricGuitar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Instruments/src/main/java/music/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Instruments/src/main/java/music/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Instruments/src/main/java/music/StringedInstrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Instruments/src/main/java/music/StringedInstrument.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,29 +49,68 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="339276817">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="334" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="334" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            <state relative-caret-position="51">
+              <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Gnirts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#393#394#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Gnirts.java">
+        <entry file="file://$PROJECT_DIR$/src/Shifter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-              <folding>
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-                <element signature="e#241#242#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="340">
+              <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -154,8 +131,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/CharSequence.java" />
-        <option value="$PROJECT_DIR$/src/Gnirts.java" />
+        <option value="$PROJECT_DIR$/src/Shifter.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/Gnirts.java" />
       </list>
     </option>
   </component>
@@ -177,26 +155,32 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Cloneable" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Cloneable" type="462c0819:PsiDirectoryNode" />
+              <item name="CharSequence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CharSequence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CharSequence" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CharSequence" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534948470610" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534952044023" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -237,44 +221,45 @@
       <option name="presentableId" value="Default" />
       <updated>1534938685247</updated>
       <workItem from="1534938689572" duration="3646000" />
+      <workItem from="1534950801060" duration="1524000" />
+      <workItem from="1535021566018" duration="267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3646000" />
+    <option name="totallyTimeSpent" value="5437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,23 +269,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Gnirts.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Shifter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="340">
+          <caret line="22" column="80" selection-start-line="22" selection-start-column="80" selection-end-line="22" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gnirts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

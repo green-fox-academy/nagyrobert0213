@@ -1,34 +1,25 @@
 public class Gnirts implements CharSequence {
-    private String string;
+    private StringBuilder sb;
 
     public Gnirts(String string){
-        this.string = string;
+        this.sb = new StringBuilder(string);
     }
 
 @Override
     public int length() {
-        return string.length();
+
+        return sb.length();
     }
 @Override
     public char charAt(int index) {
 
-        return string.charAt(index);
+        return sb.charAt(index);
     }
 
 
-
-   /* @Override
-    public int length() {
-        return 0;
-    }
-
-    @Override
-    public char charAt(int index) {
-        return 0;
-    }*/
 
     @Override
     public CharSequence subSequence(int start, int end) {
-        return string.substring(string.length() - end, string.length() - start);
+        return sb.reverse();
     }
 }
