@@ -1,4 +1,4 @@
-package com.greenfoxacademy.helloworld.controllers;
+package com.greenfoxacademy.helloworld;
 
 public class Greeting {
     long id;
