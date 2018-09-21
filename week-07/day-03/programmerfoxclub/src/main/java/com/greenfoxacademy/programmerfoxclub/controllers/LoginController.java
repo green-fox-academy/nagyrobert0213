@@ -1,17 +1,15 @@
 package com.greenfoxacademy.programmerfoxclub.controllers;
 
-import com.greenfoxacademy.programmerfoxclub.Fox;
+import com.greenfoxacademy.programmerfoxclub.models.Fox;
+import com.greenfoxacademy.programmerfoxclub.services.FoxService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.servlet.ModelAndView;
-
-import javax.servlet.http.HttpServletRequest;
 
 @Controller
 public class LoginController {
 
-    private Fox fox;
+    FoxService foxService = new FoxService();
 
 //    public LoginController() {
 //        this.fox = new Fox(name);
@@ -23,15 +21,8 @@ public class LoginController {
     }
 
     @PostMapping("/login")
-    public String loginPost(String name){
-//        fox.setName(name);
-        fox = new Fox(name);
+    public String loginPost(String name, Model model) {
         return "redirect:/?name=" + name;
     }
 
-    @GetMapping("/")
-    public String index(Model model){
-        model.addAttribute("name", fox.getName());
-        return "index";
-    }
 }
