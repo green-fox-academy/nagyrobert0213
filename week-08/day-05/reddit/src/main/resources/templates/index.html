@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Main Page</title>
+    <link href="webjars/bootstrap/3.3.7-1/css/bootstrap.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+</head>
+<body>
+<table class="table">
+    <a class="btn btn-primary" href="/addpost">Add new post</a>
+    <a class="btn btn-primary" href="/register">Register</a>
+    <a class="btn btn-default" href="/login">Login</a>
+    <h1>Post list</h1>
+    <thead class="thead-dark">
+    <th:block th:each="user : ${userList}" th:value="${user}">
+        <p th:text="'Welcome, '+ ${user.getName()}"></p>
+    </th:block>
+    <tr>
+        <td>POINT</td>
+        <td>ID</td>
+        <td>TITLE</td>
+        <td>CREATED</td>
+        <td>UPVOTE</td>
+        <td>DOWNVOTE</td>
+    </tr>
+    </thead>
+    <th:block th:each="reddit : ${redditList}" th:value="${reddit}">
+        <tbody>
+        <tr>
+            <td th:text="${reddit.getPoint()}"></td>
+            <td th:text="${reddit.getId()}"></td>
+            <td th:text="${reddit.getTitle()}"></td>
+            <td th:text="${reddit.getCreatedDate()}"></td>
+            <td>
+                <form th:action="${reddit.getId()} + '/upvote'" method="post">
+                    <label>
+                    </label>
+                    <button type="submit"><span class="glyphicon glyphicon-plus-sign"></span>
+                    </button>
+                </form>
+            </td>
+            <td>
+                <form th:action="${reddit.getId()} + '/downvote'" method="post">
+                    <label>
+                    </label>
+                    <button type="submit"><span class="glyphicon glyphicon-minus-sign"></span>
+                    </button>
+                </form>
+            </td>
+        </tr>
+        </tbody>
+    </th:block>
+</table>
+<script src="webjars/jquery/1.11.1/jquery.min.js"></script>
+<script src="webjars/bootstrap/3.3.7-1/js/bootstrap.min.js"></script>
+</body>
+</html>
